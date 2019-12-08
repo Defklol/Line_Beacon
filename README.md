@@ -2,6 +2,7 @@
 Customer Line Beacon
 
 Prefix : 0x6FFE
+
 HWID : Line@申請
 
 SDK :14.0
